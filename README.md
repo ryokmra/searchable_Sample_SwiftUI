@@ -45,3 +45,9 @@ Viewの「キャンセル」ボタンが押されると値が切り替わる。
 ### パラメータisPresentedの利用
 
 モディファイアonChangeのパラメータにisPresentedの変数をセットし、検索状態がオフの場合に何か処理をする。
+
+## 参考資料
+
+https://developer.apple.com/documentation/swiftui/view/searchable(text:ispresented:placement:prompt:)-1hn4y#parameters
+
+https://www-hackingwithswift-com.translate.goog/quick-start/swiftui/how-to-add-a-search-bar-to-filter-your-data?_x_tr_sl=en&_x_tr_tl=ja&_x_tr_hl=ja&_x_tr_pto=sc
